@@ -1,0 +1,31 @@
+_repo: The-Romance-of-Biography--Vol-2-of-2-2-Vols._35416
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jameson, Mrs. (Anna)
+    aliases:
+    - Murphy, Anna Brownell
+    - Jameson, Anna Brownell Murphy
+    birthdate: 1794
+    deathdate: 1860
+    gutenberg_agent_id: '7772'
+    url: http://www.gutenberg.org/2009/agents/7772
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Brownell_Jameson
+description: ''
+gutenberg_issued: '2011-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35416'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women in literature'
+- !lcc 'PN'
+title: "The Romance of Biography (Vol 2 of 2)\r\nor Memoirs of Women Loved and Celebrated\
+  \ by Poets, from the Days of the Troubadours to the Present Age. 3rd ed. 2 Vols."
+url: http://www.gutenberg.org/ebooks/35416
